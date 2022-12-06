@@ -76,7 +76,7 @@ input[type=button]{
     margin: 25% auto;
   }
   .cont{
-    margin: 30% 10%;
+    margin: 40% 10%;
     width: 75%;
   }
   .cont2{
@@ -88,9 +88,11 @@ input[type=button]{
     }
     .left{
         width: 60%;
+        height:300px;
     }
     .right{
         width: 60%;
+        height:300px;
     }
     input{
         font-size:11px;}
